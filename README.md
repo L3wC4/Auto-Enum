@@ -10,3 +10,6 @@ In addition to that, when FFUF runs in the background, it still shows output and
 Everything is run with subprocesses and the python script will finish before the rest. If you want to stop any of the background processes, you will need to kill the process as ctrl+c will not work.
 
 If you have any useful additions, I am open to them, but cannot guarantee they will be made.
+
+
+Do not use Auto-Enum for anything that is illegal! This is not a 'stealthy' approch and is made for CTFs. I will not be held liable for any damages caused by the use Auto-Enum.
