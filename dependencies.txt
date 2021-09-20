@@ -1,3 +1,0 @@
-Rustscan & NMAP are nessecary for this to run!
-Ffuf is used for directory and subdomain bruteforcing!
-pip install googlesearch-python
